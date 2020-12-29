@@ -1,6 +1,6 @@
 # Pizza Shop
 
-**GOAL:** build an app that handles the management of a pizza shop using OOP concepts. 
+**GOAL:** build an app that handles the management of a pizza shop using OOP concepts learned in AP Computer Science A. 
 
 **Things to include:**
 - Create pizzas
